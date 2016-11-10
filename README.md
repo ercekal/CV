@@ -65,7 +65,6 @@ Project | Description | Timeframe | Technologies | Testing
 
 ### <a name="interests">Interests</a>
 
-Interests
 Coding, playing with new frameworks, AI, mountaineering (some 6.000m+ summits), hiking, scuba diving, traveling (South America, India, SE Asia, ME), literature (dystopia, sci-fi, historical novels)
 
 ### <a name="languages">Languages</a>

@@ -13,11 +13,11 @@ During 4 months of intense training, I did pair and group programming focusing t
 
 ### <a name="skills">Skills</a>
 
-#### Project Management
-During the clinical trials I managed, we were using non-marketed drugs hence being audited by local and global authorities throughly. I was training the site and company staff along with investigators so that we don’t have any non-compliance and have perfect handling of possible medical adverse events. During my event management period I was able to manage events flawlessly by coordinating different scoped teams with extreme pressure from client side with C-Level executives.
+#### Project Management & detail orientation
+During the clinical trials I managed, we were using non-marketed drugs hence being audited by local and global authorities throughly. I was training the site and company staff along with investigators so that we don’t have any non-compliance and have perfect handling of possible medical adverse events. While running my event management company I was able to manage events flawlessly by coordinating different scoped teams with extreme pressure from client side with international C-Level executives of Exxon Mobil & Google Turkey.
 
 #### Fast learning & Adaptation
-Having working on different scoped jobs (such as corporate pharma, science, event management), dealing with different backgrounds of people, teams and industries along with my extensive personal travels to South America, SE Asia and Europe supported me in my highly developed adaptation skill. With this skill accompanied with my fast learning, I am confident to learn the details of any subject in an extremely fast pace.
+During the development of MakersBnb, my team decided to use Node.js and MongoDB even though they weren’t included in our curriculum. By doing extensive research and supporting my team members, we delivered the MVP in just two days of development, and achieved version 4 two days later which included all the features we had planned for our final presentation.
 
 #### Good Communicator
 Aside from doing science related work, one of my major tasks was to act as a bridge between technical and non-technical staff.
@@ -66,7 +66,7 @@ Project | Description | Timeframe | Technologies | Testing
 ### <a name="interests">Interests</a>
 
 Interests
-Coding, playing with new frameworks, AI, mountaineering, hiking, scuba diving, traveling, literature (dystopia, sci-fi, historical novels)
+Coding, playing with new frameworks, AI, mountaineering (some 6.000m+ summits), hiking, scuba diving, traveling (South America, India, SE Asia, ME), literature (dystopia, sci-fi, historical novels)
 
 ### <a name="languages">Languages</a>
 

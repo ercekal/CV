@@ -1,48 +1,75 @@
-## Your Name
+## <a name="user-content-top">Erce Kalabalikoglu</a>
+#### | ercekalabalikoglu@gmail.com | [Linkedin](https://www.linkedin.com/in/erce-kalabalikoglu-99163946) |
+##### -- [Who am I](#whoami) -- [Skills](#skills) -- [Projects](#Projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests) -- [Languages](#languages) 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
 
-#### This Skill
+### <a name="whoami">Who Am I</a>
+---
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I’m a Full Stack Web Developer who is passionate about responsive Frontend frameworks. As a former Genetic Engineer, I was always interested with technology. After working in pharmaceutical corporations and running an event management company, I decided to pursue my personal dream of coding & developing by enrolling <a href="http://www.makersacademy.com/">Makers Academy</a> which is Europe's leading software development bootcamp.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+During 4 months of intense training I did pair and group programming focusing to JavaScript, Ruby, Rails and Node.js while prioritizing TDD. With my training in full stack web development and orientation to detail, my target is to be a part of skilled and enthusiastic team that is passionate about designing and developing state-of-the-art products for the good of the people and the world. I’d like to be challenged to the borders of my knowledge and skills so that with the help of my curiosity I can find solutions to common problems. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### <a name="skills">Skills</a>
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Project Management
+During the clinical trials I managed, we were using non-marketed drugs hence being audited by local and global authorities throughly. I was training the site and company staff along with investigators so that we don’t have any non-compliance and have perfect handling of possible medical adverse events. During my event management period I was able to manage events flawlessly by coordinating different scoped teams with extreme pressure from client side with C-Level executives.
 
-## Education
+#### Fast learning & Adaptation
+Having working on different scoped jobs (such as corporate pharma, science, event management), dealing with different backgrounds of people, teams and industries along with my extensive personal travels to South America, SE Asia and Europe supported me in my highly developed adaptation skill. With this skill accompanied with my fast learning, I am confident to learn the details of any subject in an extremely fast pace.
 
-#### Makers Academy (start_date to end_date)
+#### Good Communicator
+Aside from doing science related work, one of my major tasks was to act as a bridge between technical and non-technical staff.
+Pairing with different people during the first half the course and working on group projects at Makers Academy, following agile principles further helped me improve as a confident communicator. I'm also mentoring 2 junior students in my course and guide them in their intense and exciting journey.
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+
+## Projects
+
+Project | Description | Timeframe | Technologies | Testing
+------------- | ----------- | --------------------- | ------------ | -------
+[plyr2](https://github.com/ercekal/plyr2)| Web app to find opponents for game | 10 days | JavaScript, Node.JS, Express, PostgreSQL| Mocha, Zombie
+[Code Farm](https://github.com/ercekal/code_farm) | Web page to teach kids programming | 4 days | JavaScript, Rails | RSpec
+[MakersBnB](https://github.com/ercekal/MakersBnB) | AirBnB Clone | 4 days | Javascript, Node.js, Express, MongoDB | Mocha, Zombie
+[Instagram](https://github.com/ercekal/instagram-challenge) | Instagra Clone | 2 days | Ruby, Rails, pSQL | RSpec
+
+
+### <a name="education">Education</a>
+
+#### Makers Academy (August 2016 - November 2016)
+
+- Ruby, Rails, Javascript, Node.js, Angular.js
+- Rspec, Jasmine, Mocha, Zombie
+- pSQL, MongoDB, Firebase
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
 
-#### Your University / College (start_date to end_date)
+#### <a href="https://en.wikipedia.org/wiki/Bo%C4%9Fazi%C3%A7i_University"> Bogazici University</a> Turkey (2003 - 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Molecular Biology and Genetics
+- BS Hons.
+- Head of InterClubs Committee & Mountaineering Club
 
-#### Any other qualifications
+### <a name="experience">Work Experience</a>
 
-## Experience
+#### Buclu Training & Logistics (May 2012 - June 2016)
+##### Founder
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Novo Nordisk Pharmaceuticals (October 2009 - May 2012)
+##### Clinical Project Manager
+
+#### Pfizer Pharmaceuticals (May 2007 - October 2009)
+##### Clinical Trial Associate
+
+### <a name="interests">Interests</a>
+
+Interests
+Coding, playing with new frameworks, AI, mountaineering, hiking, scuba diving, traveling, literature (dystopia, sci-fi, historical novels)
+
+### <a name="languages">Languages</a>
+
+Languages
+English, Turkish, Spanish (intermediate) and German (pre-intermediate)

@@ -7,10 +7,9 @@
 ### <a name="whoami">Who Am I</a>
 ---
 
-I’m a Full Stack Web Developer who is passionate about responsive Frontend frameworks. As a former Genetic Engineer, I was always interested with technology. After working in pharmaceutical corporations and running an event management company, I decided to pursue my personal dream of coding & developing by enrolling <a href="http://www.makersacademy.com/">Makers Academy</a> which is Europe's leading software development bootcamp.
+I’m a Full Stack Web Developer who is passionate about responsive Frontend frameworks. As a former Genetic Engineer, I was always interested with technology. After working in pharmaceutical corporations and running an event management company, I decided to pursue my personal dream of coding & development by enrolling <a href="http://www.makersacademy.com/">Makers Academy</a> which is Europe's leading software development bootcamp.
 
-
-During 4 months of intense training I did pair and group programming focusing to JavaScript, Ruby, Rails and Node.js while prioritizing TDD. With my training in full stack web development and orientation to detail, my target is to be a part of skilled and enthusiastic team that is passionate about designing and developing state-of-the-art products for the good of the people and the world. I’d like to be challenged to the borders of my knowledge and skills so that with the help of my curiosity I can find solutions to common problems. 
+During 4 months of intense training, I did pair and group programming focusing to JavaScript, Ruby, Rails and Node.js while prioritizing TDD. I can do web apps and interactive web pages with related and current frameworks with my training in full stack web development and orientation to detail. My target is to be a part of skilled and enthusiastic team that is passionate about designing and developing state-of-the-art products for the good of the people and the world. I’d like to be challenged to the borders of my knowledge and skills so that with the help of my curiosity I can find solutions to common problems. 
 
 ### <a name="skills">Skills</a>
 

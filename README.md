@@ -9,7 +9,7 @@
 
 I’m a Full Stack Web Developer who is passionate about responsive Frontend frameworks. As a former Genetic Engineer, I was always interested with technology. After working in pharmaceutical corporations and running an event management company, I decided to pursue my personal dream of coding & development by enrolling <a href="http://www.makersacademy.com/">Makers Academy</a> which is Europe's leading software development bootcamp.
 
-During 4 months of intense training, I did pair and group programming focusing to JavaScript, Ruby, Rails and Node.js while prioritizing TDD. After finishing MA, I started working as volunteer Front End Developer in a digital agency to continue my training and development focusing to React, React Native and Front End Technologies. I can do web & mobile apps and interactive web pages with related and current frameworks with my training in full stack web development and orientation to detail. My target is to be a part of skilled and enthusiastic team that is passionate about designing and developing state-of-the-art products for the good of the people and the world. I’d like to be challenged to the borders of my knowledge and skills so that with the help of my curiosity I can find solutions to common problems. 
+During 4 months of intense training, I did pair and group programming focusing to JavaScript, Ruby, Rails and Node.js while prioritizing TDD. After finishing MA, I started working as volunteer Front End Developer in a digital agency to continue my training and development focusing to ReactJS, React Native and Front End Technologies. I can do web & mobile apps and interactive web pages with related and current frameworks with my training in full stack web development and orientation to detail. My target is to be a part of skilled and enthusiastic team that is passionate about designing and developing state-of-the-art products for the good of the people and the world. I’d like to be challenged to the borders of my knowledge and skills so that with the help of my curiosity I can find solutions to common problems. 
 
 ### <a name="skills">Skills</a>
 
@@ -54,10 +54,13 @@ Project | Description | Timeframe | Technologies | Testing
 
 ### <a name="experience">Work Experience</a>
 
-#### Vitamin London Digital Agency (December 2016 - Present)
+#### Hippocampus AI (January 2017 - Present)
+##### Mobile App Developer with React Native (Freelance)
+
+#### Vitamin London Digital Agency (December 2016 - January 2017)
 ##### Front End Developer (Voluntary work)
 
-#### Buclu Training & Logistics (May 2012 - June 2016)
+#### Buclu Training & Event Management (May 2012 - June 2016)
 ##### Founder
 
 #### Novo Nordisk Pharmaceuticals (October 2009 - May 2012)
